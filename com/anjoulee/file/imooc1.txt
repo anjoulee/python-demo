@@ -1,0 +1,12 @@
+[userinfo]
+name = zhangsan
+pwd = 123
+
+[study]
+python_base = 15
+python_junior = 20
+linux_base = 15
+
+[login]
+2017-12-15 = 20
+
